@@ -1,7 +1,8 @@
 astroid==1.6.6
 awscli==1.16.189
-boto3==1.9.192
+boto3==1.9.192                                                                  
 botocore==1.12.192
+chardet~=2.2.1
 colorama==0.3.9
 dj-database-url==0.5.0
 Django==1.11
@@ -13,6 +14,7 @@ ikp3db==1.1.4
 isort==4.3.21
 jedi==0.11.1
 jmespath==0.9.4
+olefile~=0.44
 lazy-object-proxy==1.4.1
 mccabe==0.6.1
 parso==0.1.1
