@@ -37,4 +37,3 @@ virtualenv==16.2.0
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
 wrapt==1.11.2
-python-apt==1.6.4
